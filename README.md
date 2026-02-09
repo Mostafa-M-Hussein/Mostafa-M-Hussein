@@ -1,14 +1,15 @@
 ### Hey, I'm Mostafa
 
-Software developer from Egypt. I build mobile apps, web platforms, and occasionally mess with systems programming.
+Full Stack .NET Developer from Egypt. I build web applications, APIs, and occasionally desktop and mobile apps.
 
-**What I work with:**
-- Mobile: Flutter/Dart
-- Backend: Node.js, Laravel, Python
-- Frontend: Vue.js, TypeScript
-- Systems: Rust
-- DevOps: Docker, Linux
+**Primary Stack:**
+- Backend: ASP.NET Core, C#, Entity Framework
+- Frontend: Blazor, Razor Pages, JavaScript
+- Database: SQL Server, PostgreSQL
+- Cloud: Azure, Docker
 
-**Current focus:** Building internal tools and automation platforms.
+**Also work with:** Flutter, Vue.js, TypeScript, Laravel, Rust
 
-Check out [zsh-theme-supersaiyan](https://github.com/Mostafa-M-Hussein/zsh-theme-supersaiyan) if you want your terminal to go Super Saiyan.
+**Current focus:** Building scalable web applications and internal tools.
+
+[Portfolio](https://mostafa-m-hussein.github.io) | [Email](mailto:mostafaasey25@gmail.com)
