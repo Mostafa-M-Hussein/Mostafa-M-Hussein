@@ -1,15 +1,19 @@
-### Hey, I'm Mostafa
-
-Full Stack .NET Developer from Egypt. I build web applications, APIs, and occasionally desktop and mobile apps.
-
-**Primary Stack:**
-- Backend: ASP.NET Core, C#, Entity Framework
-- Frontend: Blazor, Razor Pages, JavaScript
-- Database: SQL Server, PostgreSQL
-- Cloud: Azure, Docker
-
-**Also work with:** Flutter, Vue.js, TypeScript, Laravel, Rust
-
-**Current focus:** Building scalable web applications and internal tools.
-
-[Portfolio](https://mustapha-mahmoud.dev/) | [Email](mailto:mostafaasey25@gmail.com)
+### Hey, I'm Mustapha Mahmoud                                                      
+                                               
+  Full Stack Developer from Egypt. I build web platforms, backend systems,  
+  developer tools, and the occasional weird side project.                   
+                                                                            
+  **Primary Stack:**                                                        
+  - Frontend: Next.js, NestJS, React, Astro, TypeScript, Tailwind         
+  - Backend: Python (FastAPI, Flask), Node.js, .NET, Rust                   
+  - Database: PostgreSQL, MySQL, Redis                                      
+  - Infra: Docker, Nginx, Caddy, Cloudflare, Linux                        
+                                                                            
+  **Also work with:** Vue, PyQt, C#, ASP.NET Core, Entity Framework         
+                                                                          
+  **Current focus:** Shipping SaaS products, backend infrastructure, and    
+  small open-source tools around LLMs and developer workflows.    
+                                                                            
+[Portfolio](https://mustapha-mahmoud.dev/)
+[Email](mailto:mostafaasey25@gmail.com)                                 
+                                               
